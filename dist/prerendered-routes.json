@@ -1,0 +1,14 @@
+{
+  "routes": [
+    "/",
+    "/contact",
+    "/flight",
+    "/food-app",
+    "/foodappui",
+    "/message",
+    "/mycab",
+    "/myhealth",
+    "/projects",
+    "/skill"
+  ]
+}
